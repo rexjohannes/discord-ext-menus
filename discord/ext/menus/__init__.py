@@ -35,7 +35,7 @@ import re
 from collections import OrderedDict, namedtuple
 
 # Needed for the setup.py script
-__version__ = '1.0.0-a'
+__version__ = '1.0'
 
 # consistency with the `discord` namespaced logging
 log = logging.getLogger(__name__)
