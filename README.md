@@ -2,6 +2,8 @@
 
 An experimental extension menu that makes working with reaction menus a bit easier.
 
+PyPi: https://pypi.org/project/discord-ext-menus/
+
 **There are no front-facing docs for this. As this is meant to be a repository for testing**
 
 ## Installing
@@ -9,7 +11,7 @@ An experimental extension menu that makes working with reaction menus a bit easi
 Installing via PyPI:
 
 ```py
-python -m pip install -U discord-ext-menus==1.0
+python -m pip install -U discord-ext-menus==1.1
 ```
 
 ## Getting Started
